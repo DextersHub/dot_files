@@ -1,0 +1,13 @@
+autoload:
+DeleteTrailingWhitespace.vim  pathogen.vim
+
+bundle:
+bufexplorer.vim  nerdcommenter  nerdtree  tlib_vim  vim-addon-mw-utils  vim-colors-solarized  vim-lastplace  vim-snipmate
+vim-snippets
+
+doc:
+DeleteTrailingWhitespace.txt  tags
+
+plugin:
+cscope_maps.vim  DeleteTrailingWhitespace.vim  make.vim
+
